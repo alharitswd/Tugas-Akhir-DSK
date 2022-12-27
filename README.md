@@ -1,2 +1,2 @@
 # Tugas-Akhir-DSK
-nanti
+Membuat program menampilkan huruf vokal dan konsonan dalam kalimat menggunakan bahasa assembly 
